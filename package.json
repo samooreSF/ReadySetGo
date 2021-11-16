@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/samooreSF/ReadySetGo#readme",
   "dependencies": {
-    "aws-sdk": "^2.663.0",
+    "aws-sdk": "^2.814.0",
     "cookie-parser": "^1.4.5",
     "cookie-session": "^1.4.0",
     "express": "^4.17.1",
